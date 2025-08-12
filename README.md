@@ -10,8 +10,8 @@ This project trains a **Random Forest Classifier** to detect authentic vs counte
 
 ## 📂 Project Structure
 ```text
-├── BankNote_Authentication.csv   # Dataset for training
-├── ModelTraining.ipynb           # Jupyter notebook for model training
+├── BankNote_Authentication.csv    # Dataset for training
+├── ModelTraining.ipynb            # Jupyter notebook for model training
 ├── BankNotes.py                   # Pydantic data model for API request body
 ├── app.py                         # FastAPI application
 ├── classifier.pkl                 # Serialized trained model
