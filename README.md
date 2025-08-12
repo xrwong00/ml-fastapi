@@ -3,7 +3,7 @@
 This project trains a **Random Forest Classifier** to detect authentic vs counterfeit banknotes, and serves predictions via a **FastAPI** REST API.
 
 ## 🚀 Features
-- Load and preprocess the Banknote Authentication dataset.
+- Load and preprocess the **[Banknote Authentication dataset](https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data)**.
 - Train a Random Forest Classifier.
 - Serialize the trained model into `classifier.pkl`.
 - Serve model predictions through a FastAPI app.
